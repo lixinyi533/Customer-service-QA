@@ -1,0 +1,1074 @@
+[
+  {
+    "n": {
+      "identity": 0,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "color": "#45B7D1",
+        "solution": "请通过公众号查看，进入“手机开箱”-“待取”页面，即可获取骑手信息。",
+        "identity": 0,
+        "name": "查看骑手信息"
+      },
+      "elementId": "0"
+    }
+  },
+  {
+    "n": {
+      "identity": 1,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "color": "#45B7D1",
+        "solution": "通过公众号查看：进入“订餐”-“订单”页面，点击订单即可直接拨打商家电话。也可以点击商家页面右上角的店铺图标，查看联系电话、地址等详细信息。",
+        "identity": 1,
+        "name": "查看商家信息"
+      },
+      "elementId": "1"
+    }
+  },
+  {
+    "n": {
+      "identity": 2,
+      "labels": [
+        "Issue"
+      ],
+      "properties": {
+        "color": "#FF6B6B",
+        "identity": 2,
+        "name": "咨询操作类问题"
+      },
+      "elementId": "2"
+    }
+  },
+  {
+    "n": {
+      "identity": 3,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "color": "#4ECDC4",
+        "identity": 3,
+        "name": "如何绑定/解绑手机"
+      },
+      "elementId": "3"
+    }
+  },
+  {
+    "n": {
+      "identity": 4,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "color": "#4ECDC4",
+        "identity": 4,
+        "name": "如何查看信息"
+      },
+      "elementId": "4"
+    }
+  },
+  {
+    "n": {
+      "identity": 5,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "color": "#4ECDC4",
+        "solution": "您可以提供取餐码或本机号码来电，我们确认后将通过系统为您远程开箱。",
+        "identity": 5,
+        "name": "如何远程开箱"
+      },
+      "elementId": "5"
+    }
+  },
+  {
+    "n": {
+      "identity": 6,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "color": "#4ECDC4",
+        "solution": "正常存放时间为60分钟。根据市场监督管理局的法规要求，我们仅支持快餐食品存放60分钟，并已多次提醒投餐人及取餐人。为避免食物变质，确保箱格清洁，超时未取的餐食可能会被管理员清理丢弃。",
+        "identity": 6,
+        "name": "外卖的存放时间是多少"
+      },
+      "elementId": "6"
+    }
+  },
+  {
+    "n": {
+      "identity": 7,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "solution": "如果您误充值，经过核实信息后，我们将在3个工作日内处理您的退款申请。如账号无投递记录，将会进行退款处理。",
+        "color": "#4ECDC4",
+        "identity": 7,
+        "name": "如何处理吴冲值"
+      },
+      "elementId": "7"
+    }
+  },
+  {
+    "n": {
+      "identity": 8,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "color": "#45B7D1",
+        "solution": "1.进入公众号：“简介”-“个人中心”-绑定手机号（可绑定多个号码）。2. 或者在公众号对话框输入“我要绑定+手机号”即可完成绑定。",
+        "identity": 8,
+        "name": "如何绑定手机"
+      },
+      "elementId": "8"
+    }
+  },
+  {
+    "n": {
+      "identity": 9,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "color": "#96CEB4",
+        "identity": 9,
+        "name": "顾客"
+      },
+      "elementId": "9"
+    }
+  },
+  {
+    "n": {
+      "identity": 10,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "color": "#96CEB4",
+        "identity": 10,
+        "name": "骑手"
+      },
+      "elementId": "10"
+    }
+  },
+  {
+    "n": {
+      "identity": 11,
+      "labels": [
+        "Issue"
+      ],
+      "properties": {
+        "color": "#FF6B6B",
+        "identity": 11,
+        "name": "配送问题"
+      },
+      "elementId": "11"
+    }
+  },
+  {
+    "n": {
+      "identity": 12,
+      "labels": [
+        "Issue"
+      ],
+      "properties": {
+        "color": "#FF6B6B",
+        "identity": 12,
+        "name": "取消订单和退款问题"
+      },
+      "elementId": "12"
+    }
+  },
+  {
+    "n": {
+      "identity": 13,
+      "labels": [
+        "Issue"
+      ],
+      "properties": {
+        "color": "#FF6B6B",
+        "identity": 13,
+        "name": "取餐问题"
+      },
+      "elementId": "13"
+    }
+  },
+  {
+    "n": {
+      "identity": 14,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "color": "#4ECDC4",
+        "identity": 14,
+        "name": "打开空箱"
+      },
+      "elementId": "14"
+    }
+  },
+  {
+    "n": {
+      "identity": 15,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "color": "#4ECDC4",
+        "identity": 15,
+        "name": "外卖提前送达"
+      },
+      "elementId": "15"
+    }
+  },
+  {
+    "n": {
+      "identity": 16,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "color": "#4ECDC4",
+        "identity": 16,
+        "name": "顾客催单"
+      },
+      "elementId": "16"
+    }
+  },
+  {
+    "n": {
+      "identity": 17,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "color": "#45B7D1",
+        "solution": "建议联系骑手或商家确认是否成功投递",
+        "identity": 17,
+        "name": "无配送记录"
+      },
+      "elementId": "17"
+    }
+  },
+  {
+    "n": {
+      "identity": 18,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "color": "#45B7D1",
+        "solution": "外卖存放超过60分钟可能已被管理员处理,请联系管理人员进行操作",
+        "identity": 18,
+        "name": "有配送记录"
+      },
+      "elementId": "18"
+    }
+  },
+  {
+    "n": {
+      "identity": 19,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "color": "#45B7D1",
+        "solution": "给您带来不便，我们深感抱歉，请尽快取餐",
+        "identity": 19,
+        "name": "提前20分钟内"
+      },
+      "elementId": "19"
+    }
+  },
+  {
+    "n": {
+      "identity": 20,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "color": "#45B7D1",
+        "solution": "提前送达给您造成不便，我们会为您提供3元优惠券表示歉意",
+        "identity": 20,
+        "name": "提前20-40分钟"
+      },
+      "elementId": "20"
+    }
+  },
+  {
+    "n": {
+      "identity": 21,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "我们会为您全额退款，并提供3元补偿",
+        "color": "#45B7D1",
+        "identity": 21,
+        "name": "提前40分钟以上"
+      },
+      "elementId": "21"
+    }
+  },
+  {
+    "n": {
+      "identity": 22,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "会按时送达，建议耐心等待",
+        "color": "#45B7D1",
+        "identity": 22,
+        "name": "下单时长在60分钟内"
+      },
+      "elementId": "22"
+    }
+  },
+  {
+    "n": {
+      "identity": 23,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "color": "#45B7D1",
+        "solution": "非常抱歉，您将获得3元的优惠券作为补偿",
+        "identity": 23,
+        "name": "下单时长在60分钟到90分钟内"
+      },
+      "elementId": "23"
+    }
+  },
+  {
+    "n": {
+      "identity": 24,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "非常抱歉让你等这么久，我们将全额退款，并给予3元的优惠券，如果外卖到了请您免费吃",
+        "color": "#45B7D1",
+        "identity": 24,
+        "name": "下单时长超过90分钟"
+      },
+      "elementId": "24"
+    }
+  },
+  {
+    "n": {
+      "identity": 25,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "solution": "建议联系客服远程开箱，后台确认该箱格信息正确后可为您远程开箱",
+        "name": "骑手投餐时误关箱门"
+      },
+      "elementId": "25"
+    }
+  },
+  {
+    "n": {
+      "identity": 26,
+      "labels": [
+        "Issue"
+      ],
+      "properties": {
+        "name": "食品安全问题"
+      },
+      "elementId": "26"
+    }
+  },
+  {
+    "n": {
+      "identity": 27,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "solution": "向用户道歉并赔偿20元现金",
+        "name": "未对身体造成直接伤害(如有头发、苍蝇、米饭不熟)"
+      },
+      "elementId": "27"
+    }
+  },
+  {
+    "n": {
+      "identity": 28,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "solution": "登记客户信息及症状，转交相应负责人王奕超处理,并安抚好客户情绪。",
+        "name": "对用户身体造成直接损害（如吞入异物，拉肚子，呕吐等）"
+      },
+      "elementId": "28"
+    }
+  },
+  {
+    "n": {
+      "identity": 29,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "name": "餐品缺件漏件"
+      },
+      "elementId": "29"
+    }
+  },
+  {
+    "n": {
+      "identity": 30,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "补发主餐 + 3元现金补偿，确认用户是否接受补发时效",
+        "name": "漏送为整份套餐 / 主餐"
+      },
+      "elementId": "30"
+    }
+  },
+  {
+    "n": {
+      "identity": 31,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": " 您可以在公众号的‘一键开箱’页面选择‘代取餐’，然后将取餐信息转发给代取餐的人，他们可以代为取餐",
+        "name": "如何让别人帮忙取餐"
+      },
+      "elementId": "31"
+    }
+  },
+  {
+    "n": {
+      "identity": 32,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "外卖存放超过60分钟已被管理员清箱处理，导致的取餐码失效，请建议联系管理员处理。同时我们建议您以后及时取餐，避免食物变质",
+        "name": "餐品被取出/清理"
+      },
+      "elementId": "32"
+    }
+  },
+  {
+    "n": {
+      "identity": 33,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "name": "取餐相关操作问题"
+      },
+      "elementId": "33"
+    }
+  },
+  {
+    "n": {
+      "identity": 34,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "您可以关注我们的公众号，绑定您的手机号，然后通过点击‘一键开箱’按钮来取餐，也可以通过输入取餐码完成取餐操作",
+        "name": "如何取餐"
+      },
+      "elementId": "34"
+    }
+  },
+  {
+    "n": {
+      "identity": 35,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "name": "取餐码失效"
+      },
+      "elementId": "35"
+    }
+  },
+  {
+    "n": {
+      "identity": 36,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "骑手在操作过程中发生失误，导致您收到了两条取餐信息，其中一条是无效的，请使用另一条短信进行尝试",
+        "name": "骑手重复投递"
+      },
+      "elementId": "36"
+    }
+  },
+  {
+    "n": {
+      "identity": 37,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "name": "骑手误触取消"
+      },
+      "elementId": "37"
+    }
+  },
+  {
+    "n": {
+      "identity": 38,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "取餐状态已修改为待取，系统已重新发送消息提示用户取餐",
+        "name": "箱格后续无人使用"
+      },
+      "elementId": "38"
+    }
+  },
+  {
+    "n": {
+      "identity": 39,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": " 您可以在公众号的‘订餐’页面点击‘取消订单，或者通过拨打商家的电话来取消订单",
+        "name": "出餐前"
+      },
+      "elementId": "39"
+    }
+  },
+  {
+    "n": {
+      "identity": 40,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": " 由于订单已经出餐，无法直接取消。建议您联系商家协商处理，如果遇到问题，我们可以协助您",
+        "name": "出餐后"
+      },
+      "elementId": "40"
+    }
+  },
+  {
+    "n": {
+      "identity": 41,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "如果您绑定了多个号码，客服可以协助解绑特定号码。我们将通过后台系统操作解绑多余号码",
+        "name": "如何解绑手机"
+      },
+      "elementId": "41"
+    }
+  },
+  {
+    "n": {
+      "identity": 42,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "通过公众号查看：进入“校区选择”-“箱位编号”页面，点击查看管理员信息即可",
+        "name": "查看箱位管理员信息"
+      },
+      "elementId": "42"
+    }
+  },
+  {
+    "n": {
+      "identity": 43,
+      "labels": [
+        "Issue"
+      ],
+      "properties": {
+        "name": "投餐相关问题"
+      },
+      "elementId": "43"
+    }
+  },
+  {
+    "n": {
+      "identity": 44,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "solution": "骑士小程序充值——1.关注【爽提骑士】微信公众号；2.依次点击我的-购卡充值-余额/投餐卡；3.选择充值的金额和配送区域，在线支付即可，也可以帮人代充",
+        "name": "如何充值投餐卡"
+      },
+      "elementId": "44"
+    }
+  },
+  {
+    "n": {
+      "identity": 45,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "非常抱歉，我们将为您补差价",
+        "name": "漏送为赠品/饮料"
+      },
+      "elementId": "45"
+    }
+  },
+  {
+    "n": {
+      "identity": 46,
+      "labels": [
+        "Issue"
+      ],
+      "properties": {
+        "name": "退卡/退费问题"
+      },
+      "elementId": "46"
+    }
+  },
+  {
+    "n": {
+      "identity": 47,
+      "labels": [
+        "Issue"
+      ],
+      "properties": {
+        "name": "账号操作咨询问题"
+      },
+      "elementId": "47"
+    }
+  },
+  {
+    "n": {
+      "identity": 48,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "solution": "打开爽提小骑士，依次点击我的-密码管理，即刻修改密码或重置密码",
+        "name": "如何修改/忘记密码"
+      },
+      "elementId": "48"
+    }
+  },
+  {
+    "n": {
+      "identity": 49,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "solution": "打开爽提骑士小程序，依次点击我的-修改手机号",
+        "name": "如何修改所绑定的手机号"
+      },
+      "elementId": "49"
+    }
+  },
+  {
+    "n": {
+      "identity": 50,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "name": "退卡问题"
+      },
+      "elementId": "50"
+    }
+  },
+  {
+    "n": {
+      "identity": 51,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "如果还有余额,建议转售其他人，也可以申请退款",
+        "name": "投餐卡是共享卡"
+      },
+      "elementId": "51"
+    }
+  },
+  {
+    "n": {
+      "identity": 52,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "投餐卡有设置有限期，在有效期内可以申请退款失效不赔付，不退款，购卡时有提示按需购买（如果对方强烈要求，可以退款）",
+        "name": "投餐卡不是共享卡"
+      },
+      "elementId": "52"
+    }
+  },
+  {
+    "n": {
+      "identity": 53,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "name": "投餐卡失效问题"
+      },
+      "elementId": "53"
+    }
+  },
+  {
+    "n": {
+      "identity": 54,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "投餐卡设置有有限期，失效不赔付，不退款，在购卡时有提醒（骑手态度强硬，可以延期，若还不同意，可以退款）",
+        "name": "投餐卡过了有效期"
+      },
+      "elementId": "54"
+    }
+  },
+  {
+    "n": {
+      "identity": 55,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "依次点击账号-用户卡管理-延期服务",
+        "name": "如何将投餐卡延期"
+      },
+      "elementId": "55"
+    }
+  },
+  {
+    "n": {
+      "identity": 56,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "solution": "关注【爽提骑士】微信公众号，依次点击【我的】-绑定手机号即可实现注册",
+        "name": "如何注册骑手帐号"
+      },
+      "elementId": "56"
+    }
+  },
+  {
+    "n": {
+      "identity": 57,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "solution": "关注【爽提骑士】微信公众号，1.依次点击【投餐】-【免排队投餐】；2.扫描柜机二维码，输入客户手机号、爽提号或者外卖单隐藏号码，即可开箱；3.点击确认投餐或者继续投餐",
+        "name": "如何投递餐食"
+      },
+      "elementId": "57"
+    }
+  },
+  {
+    "n": {
+      "identity": 58,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "solution": "在【爽提骑士】微信公众号里，依次点击【投餐】-【投餐记录】-【待取】；2.找到相应订单点击【扫码回收】或【修改手机号】",
+        "name": "回收/输错号码问题"
+      },
+      "elementId": "58"
+    }
+  },
+  {
+    "n": {
+      "identity": 59,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "name": "取消投递问题"
+      },
+      "elementId": "59"
+    }
+  },
+  {
+    "n": {
+      "identity": 60,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "1.由客服联系下一个使用该箱的骑手，确认产品是否还在箱，在箱则引导订餐人在下一个取餐人取餐时一起取出；2.确认下个骑手未投餐，由客服远程开箱让客户取出，并更改箱门状态为取消。",
+        "name": "箱格后续有人使用"
+      },
+      "elementId": "60"
+    }
+  },
+  {
+    "n": {
+      "identity": 61,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "1.确认投餐界面90秒结束前，可点击下方的【放弃投餐】/【重试开箱】；2.已投递成功，操作回收即可。",
+        "name": "骑手主动取消"
+      },
+      "elementId": "61"
+    }
+  },
+  {
+    "n": {
+      "identity": 62,
+      "labels": [
+        "System"
+      ],
+      "properties": {
+        "name": "平台参与者"
+      },
+      "elementId": "62"
+    }
+  },
+  {
+    "n": {
+      "identity": 63,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "name": "取餐货不对板问题"
+      },
+      "elementId": "63"
+    }
+  },
+  {
+    "n": {
+      "identity": 64,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "骑手可能投错箱，建议联系骑手核实",
+        "name": "订餐人信息一致"
+      },
+      "elementId": "64"
+    }
+  },
+  {
+    "n": {
+      "identity": 65,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "商家可能投错箱，建议联系商家核实",
+        "name": "订餐人信息不一致"
+      },
+      "elementId": "65"
+    }
+  },
+  {
+    "n": {
+      "identity": 66,
+      "labels": [
+        "Issue"
+      ],
+      "properties": {
+        "name": "投餐卡相关问题"
+      },
+      "elementId": "66"
+    }
+  },
+  {
+    "n": {
+      "identity": 67,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "solution": " 骑士小程序充值——1.关注【爽提骑士】微信公众号；2.依次点击我的-购卡充值-余额/投餐卡；3.选择配送区域以及按需选择次数，在线支付即可，也可以帮人代购。并可查看已购投餐卡的使用详情。",
+        "name": "如何购买投餐卡"
+      },
+      "elementId": "67"
+    }
+  },
+  {
+    "n": {
+      "identity": 68,
+      "labels": [
+        "Issue"
+      ],
+      "properties": {
+        "name": "异常处理相关问题"
+      },
+      "elementId": "68"
+    }
+  },
+  {
+    "n": {
+      "identity": 69,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "solution": "建议联系客服远程开箱，后台确认该箱格是空箱状态可远程开箱。",
+        "name": "骑手投餐时放错箱格"
+      },
+      "elementId": "69"
+    }
+  },
+  {
+    "n": {
+      "identity": 70,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "solution": "1.提醒骑手下次遇到该情况，可在倒计时结束前点取消投递;2.并告知骑手我们将将联系锁箱工作人员处理。",
+        "name": "投餐时箱门未开已产生扣费"
+      },
+      "elementId": "70"
+    }
+  },
+  {
+    "n": {
+      "identity": 71,
+      "labels": [
+        "Person"
+      ],
+      "properties": {
+        "name": "商业合作方"
+      },
+      "elementId": "71"
+    }
+  },
+  {
+    "n": {
+      "identity": 72,
+      "labels": [
+        "Issue"
+      ],
+      "properties": {
+        "solution": "您好，如需商务合作请认真填写以下问卷，填写完成后会自动转发给相关商务部同事。感谢您的配合！https://www.wjx.top/jq/50598763.aspxhttp://www.kplocker.com/plan.html",
+        "name": "商务合作"
+      },
+      "elementId": "72"
+    }
+  },
+  {
+    "n": {
+      "identity": 73,
+      "labels": [
+        "Issue"
+      ],
+      "properties": {
+        "name": "已合作商户问题"
+      },
+      "elementId": "73"
+    }
+  },
+  {
+    "n": {
+      "identity": 74,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "name": "餐品口感异常"
+      },
+      "elementId": "74"
+    }
+  },
+  {
+    "n": {
+      "identity": 75,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "全额退款 + 致歉，同步商家整改，记录食品安全问题",
+        "name": "食材过期 / 异味"
+      },
+      "elementId": "75"
+    }
+  },
+  {
+    "n": {
+      "identity": 76,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "承租商下的商家说自己把提现的交易密码给忘记了。康超可以给他置空密码、让商家重设。引导商家写个申请修改交易密码的证明，找承租商盖章，然后再和身份证照片一起提交给爽提备档。",
+        "name": "商户忘记密码"
+      },
+      "elementId": "76"
+    }
+  },
+  {
+    "n": {
+      "identity": 77,
+      "labels": [
+        "SubIssue"
+      ],
+      "properties": {
+        "name": "店铺优惠券问题"
+      },
+      "elementId": "77"
+    }
+  },
+  {
+    "n": {
+      "identity": 78,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "name": "如何设置优惠券"
+      },
+      "elementId": "78"
+    }
+  },
+  {
+    "n": {
+      "identity": 79,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "1，生效前商家可自行操作取消。2，生效后领取数量为0的优惠券，商家可自行操作取消。(商家自行取消路径管理 - 营销 - 查看优惠券 - 废弃) 3.已被领取的优惠券反馈给唐佳欣设置失效，但是已领取的优惠券不会失效，仅停止继续领取。",
+        "name": "如何废弃优惠券"
+      },
+      "elementId": "79"
+    }
+  },
+  {
+    "n": {
+      "identity": 80,
+      "labels": [
+        "DetailIssue"
+      ],
+      "properties": {
+        "solution": "我们将为您补偿2元现金红包并为您重新制作",
+        "name": "口味不符 / 温度过低"
+      },
+      "elementId": "80"
+    }
+  }
+]
